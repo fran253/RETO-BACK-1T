@@ -1,0 +1,123 @@
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.exe
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.deps.json
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.runtimeconfig.json
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.dll
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.pdb
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.AssemblyReference.cache
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.GeneratedMSBuildEditorConfig.editorconfig
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.AssemblyInfoInputs.cache
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.AssemblyInfo.cs
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.CoreCompileInputs.cache
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cs
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cache
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.sourcelink.json
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.build.json
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.development.json
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.Cine-API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.build.Cine-API.props
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cine-API.props
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cine-API.props
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.pack.json
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\scopedcss\bundle\Cine-API.styles.css
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.Up2Date
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.dll
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\refint\Cine-API.dll
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.pdb
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.genruntimeconfig.cache
+E:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\ref\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.exe
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.deps.json
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.runtimeconfig.json
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.pdb
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.AssemblyReference.cache
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.GeneratedMSBuildEditorConfig.editorconfig
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.AssemblyInfoInputs.cache
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.AssemblyInfo.cs
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.CoreCompileInputs.cache
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cs
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cache
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.sourcelink.json
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.build.json
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.development.json
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.Cine-API.Microsoft.AspNetCore.StaticWebAssets.props
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.build.Cine-API.props
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cine-API.props
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cine-API.props
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.pack.json
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\scopedcss\bundle\Cine-API.styles.css
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.Up2Date
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\refint\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.pdb
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.genruntimeconfig.cache
+d:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\ref\Cine-API.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.exe
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.deps.json
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.runtimeconfig.json
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Cine-API.pdb
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.AssemblyReference.cache
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.GeneratedMSBuildEditorConfig.editorconfig
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.AssemblyInfoInputs.cache
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.AssemblyInfo.cs
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.CoreCompileInputs.cache
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cs
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cache
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.sourcelink.json
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.build.json
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.development.json
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.Cine-API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.build.Cine-API.props
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cine-API.props
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cine-API.props
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\staticwebassets.pack.json
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\scopedcss\bundle\Cine-API.styles.css
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.csproj.Up2Date
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\refint\Cine-API.dll
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.pdb
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\Cine-API.genruntimeconfig.cache
+F:\GRADO SUPERIOR (año2)\TRABAJO 1er TRIMESTRE\BACK\cs\obj\Debug\net8.0\ref\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Cine-API.exe
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Cine-API.deps.json
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Cine-API.runtimeconfig.json
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Cine-API.pdb
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.csproj.AssemblyReference.cache
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.GeneratedMSBuildEditorConfig.editorconfig
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.AssemblyInfoInputs.cache
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.AssemblyInfo.cs
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.csproj.CoreCompileInputs.cache
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cs
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cache
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\staticwebassets.build.json
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\staticwebassets.development.json
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\staticwebassets\msbuild.Cine-API.Microsoft.AspNetCore.StaticWebAssets.props
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\staticwebassets\msbuild.build.Cine-API.props
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cine-API.props
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cine-API.props
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\staticwebassets.pack.json
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\scopedcss\bundle\Cine-API.styles.css
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.csproj.Up2Date
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\refint\Cine-API.dll
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.pdb
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.genruntimeconfig.cache
+d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\ref\Cine-API.dll
