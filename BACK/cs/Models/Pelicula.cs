@@ -2,7 +2,7 @@ using System.Data;
 
 namespace Models;
 
-public class Pelicula : CategoriaPelicula {
+public class Pelicula {
     public int Id {get;set;}
     public string Nombre {get;set;}
     public string Imagen {get;set;}
@@ -15,10 +15,11 @@ public class Pelicula : CategoriaPelicula {
     public string Descripcion {get;set;}
     public int IdEntrada {get;set;}
     public int IdSala {get;set;}
+    public int IdCategoriaPelicula {get;set;}
 
 
 
-    public Pelicula(int id, string nombre,string imagen, string director, int duracion, string actores, string edadminima, DateTime fechaestreno, DateTime horario, string descripcion, int identrada, int idsala, int idCategoriaPelicula, string nombreCategoria): base(idCategoriaPelicula, nombreCategoria) {
+    public Pelicula(int id, string nombre,string imagen, string director, int duracion, string actores, string edadminima, DateTime fechaestreno, DateTime horario, string descripcion, int identrada, int idsala, int idCategoriaPelicula) {
         Id = id;
         Nombre = nombre;
         Imagen = imagen;
@@ -31,6 +32,8 @@ public class Pelicula : CategoriaPelicula {
         Descripcion = descripcion;
         IdEntrada = identrada;
         IdSala = idsala;
+        IdCategoriaPelicula = idCategoriaPelicula;
+
         // if (string.IsNullOrEmpty(nombre))
         // {
         //     throw new ArgumentException("Error: El nombre no puede estar vacío.");
