@@ -11,13 +11,12 @@ public class Pelicula {
     public string Actores {get;set;}
     public string EdadMinima {get;set;}
     public DateTime FechaEstreno {get;set;}
-    public DateTime Horario {get;set;}
     public string Descripcion {get;set;}
     public int IdCategoriaPelicula {get;set;}
 
 
 
-    public Pelicula(int idpelicula, string nombre,string imagen, string director, int duracion, string actores, string edadminima, DateTime fechaestreno, DateTime horario, string descripcion, int idCategoriaPelicula) {
+    public Pelicula(int idpelicula, string nombre,string imagen, string director, int duracion, string actores, string edadminima, DateTime fechaestreno, string descripcion, int idCategoriaPelicula) {
         IdPelicula = idpelicula;
         Nombre = nombre;
         Imagen = imagen;
@@ -26,7 +25,6 @@ public class Pelicula {
         Actores = actores;
         EdadMinima = edadminima;
         FechaEstreno = fechaestreno;
-        Horario = horario;
         Descripcion = descripcion;
         IdCategoriaPelicula = idCategoriaPelicula;
 

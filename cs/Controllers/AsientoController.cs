@@ -31,27 +31,29 @@ namespace CineApi.Controllers
             return CreatedAtAction(nameof(GetById), new { id = asiento.IdAsiento }, asiento);
         }
 
-        [HttpPut("{id}")]
-        public ActionResult Update(int id, [FromBody] Asiento updatedAsiento)
-        {
-            var asiento = Asientos.FirstOrDefault(a => a.IdAsiento == id);
-            if (asiento == null)
-                return NotFound();
+///////////////////////////////////////////////////////////////////////////////////////////De momento no se necesita el UPDATE
+        // [HttpPut("{id}")]
+        // public ActionResult Update(int id, [FromBody] Asiento updatedAsiento)
+        // {
+        //     var asiento = Asientos.FirstOrDefault(a => a.IdAsiento == id);
+        //     if (asiento == null)
+        //         return NotFound();
 
-            asiento.Estado = updatedAsiento.Estado;
-            return NoContent();
-        }
+        //     asiento.Estado = updatedAsiento.Estado;
+        //     return NoContent();
+        // }
 
-        [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
-        {
-            var asiento = Asientos.FirstOrDefault(a => a.IdAsiento == id);
-            if (asiento == null)
-                return NotFound();
+///////////////////////////////////////////////////////////////////////////////////////////De momento no se necesita el DELETE
+        // [HttpDelete("{id}")]
+        // public ActionResult Delete(int id)
+        // {
+        //     var asiento = Asientos.FirstOrDefault(a => a.IdAsiento == id);
+        //     if (asiento == null)
+        //         return NotFound();
 
-            Asientos.Remove(asiento);
-            return NoContent();
-        }
+        //     Asientos.Remove(asiento);
+        //     return NoContent();
+        // }
         public static void InicializarDatos()
         {
             

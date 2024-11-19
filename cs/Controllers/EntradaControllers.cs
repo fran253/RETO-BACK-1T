@@ -31,27 +31,29 @@ namespace CineApi.Controllers
             return CreatedAtAction(nameof(GetById), new { id = entrada.Id }, entrada);
         }
 
-        [HttpPut("{id}")]
-        public ActionResult Update(int id, [FromBody] Entrada updatedEntrada)
-        {
-            var entrada = Entradas.FirstOrDefault(e => e.Id == id);
-            if (entrada == null)
-                return NotFound();
+///////////////////////////////////////////////////////////////////////////////////////////De momento no se necesita el UPDATE
+        // [HttpPut("{id}")]
+        // public ActionResult Update(int id, [FromBody] Entrada updatedEntrada)
+        // {
+        //     var entrada = Entradas.FirstOrDefault(e => e.Id == id);
+        //     if (entrada == null)
+        //         return NotFound();
 
-            entrada.Precio = updatedEntrada.Precio;
-            return NoContent();
-        }
+        //     entrada.Precio = updatedEntrada.Precio;
+        //     return NoContent();
+        // }
 
-        [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
-        {
-            var entrada = Entradas.FirstOrDefault(e => e.Id == id);
-            if (entrada == null)
-                return NotFound();
+///////////////////////////////////////////////////////////////////////////////////////////De momento no se necesita el DELETE
+        // [HttpDelete("{id}")]
+        // public ActionResult Delete(int id)
+        // {
+        //     var entrada = Entradas.FirstOrDefault(e => e.Id == id);
+        //     if (entrada == null)
+        //         return NotFound();
 
-            Entradas.Remove(entrada);
-            return NoContent();
-        }
+        //     Entradas.Remove(entrada);
+        //     return NoContent();
+        // }
         public static void InicializarDatos()
         {
             
