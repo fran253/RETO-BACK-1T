@@ -1,16 +1,20 @@
 namespace Models;
 
 public class Sala {
-    public int Id {get;set;}
-    public int IdAsiento {get;set;}
+    public int IdSala {get;set;}
+    public string NombreSala {get; set;}
+    public int Capacidad{get;set;}
+
+    
 
 
 
 
+    public Sala(int idsala, int capacidad, string nombresala){
+        IdSala = idsala;
+        Capacidad = capacidad;
+        NombreSala = nombresala;
 
-    public Sala(int id, int idasiento) {
-        Id = id;
-        IdAsiento = idasiento;
         // if (string.IsNullOrEmpty(nombre))
         // {
         //     throw new ArgumentException("Error: El nombre no puede estar vacío.");

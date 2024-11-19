@@ -1,19 +1,15 @@
 namespace Models;
 
 public class Asiento {
-    public int Id {get;set;}
-    public int Fila {get;set;}
-    public int Columna {get;set;}
+    public int IdAsiento {get;set;}
     public int NumAsiento {get;set;}
-    public double Estado {get;set;}
+    public Boolean Estado {get;set;}
 
 
 
 
-    public Asiento(int id, int fila, int columna, int numasiento, double estado) {
-        Id = id;
-        Fila = fila;
-        Columna = columna;
+    public Asiento(int idasiento, int numasiento, Boolean estado) {
+        IdAsiento = idasiento;
         NumAsiento = numasiento;
         Estado = estado;
         // if (string.IsNullOrEmpty(nombre))

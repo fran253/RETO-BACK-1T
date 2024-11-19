@@ -18,7 +18,7 @@ namespace CineApi.Controllers
         [HttpGet("{id}")]
         public ActionResult<Asiento> GetById(int id)
         {
-            var asiento = Asientos.FirstOrDefault(a => a.Id == id);
+            var asiento = Asientos.FirstOrDefault(a => a.IdAsiento == id);
             if (asiento == null)
                 return NotFound();
             return Ok(asiento);
@@ -28,13 +28,13 @@ namespace CineApi.Controllers
         public ActionResult Create([FromBody] Asiento asiento)
         {
             Asientos.Add(asiento);
-            return CreatedAtAction(nameof(GetById), new { id = asiento.Id }, asiento);
+            return CreatedAtAction(nameof(GetById), new { id = asiento.IdAsiento }, asiento);
         }
 
         [HttpPut("{id}")]
         public ActionResult Update(int id, [FromBody] Asiento updatedAsiento)
         {
-            var asiento = Asientos.FirstOrDefault(a => a.Id == id);
+            var asiento = Asientos.FirstOrDefault(a => a.IdAsiento == id);
             if (asiento == null)
                 return NotFound();
 
@@ -45,12 +45,17 @@ namespace CineApi.Controllers
         [HttpDelete("{id}")]
         public ActionResult Delete(int id)
         {
-            var asiento = Asientos.FirstOrDefault(a => a.Id == id);
+            var asiento = Asientos.FirstOrDefault(a => a.IdAsiento == id);
             if (asiento == null)
                 return NotFound();
 
             Asientos.Remove(asiento);
             return NoContent();
         }
+        public static void InicializarDatos()
+        {
+            
+        }
+
     }
 }

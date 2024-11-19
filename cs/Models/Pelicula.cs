@@ -3,7 +3,7 @@ using System.Data;
 namespace Models;
 
 public class Pelicula {
-    public int Id {get;set;}
+    public int IdPelicula {get;set;}
     public string Nombre {get;set;}
     public string Imagen {get;set;}
     public string Director {get;set;}
@@ -13,14 +13,12 @@ public class Pelicula {
     public DateTime FechaEstreno {get;set;}
     public DateTime Horario {get;set;}
     public string Descripcion {get;set;}
-    public int IdEntrada {get;set;}
-    public int IdSala {get;set;}
     public int IdCategoriaPelicula {get;set;}
 
 
 
-    public Pelicula(int id, string nombre,string imagen, string director, int duracion, string actores, string edadminima, DateTime fechaestreno, DateTime horario, string descripcion, int identrada, int idsala, int idCategoriaPelicula) {
-        Id = id;
+    public Pelicula(int idpelicula, string nombre,string imagen, string director, int duracion, string actores, string edadminima, DateTime fechaestreno, DateTime horario, string descripcion, int idCategoriaPelicula) {
+        IdPelicula = idpelicula;
         Nombre = nombre;
         Imagen = imagen;
         Director = director;
@@ -30,8 +28,6 @@ public class Pelicula {
         FechaEstreno = fechaestreno;
         Horario = horario;
         Descripcion = descripcion;
-        IdEntrada = identrada;
-        IdSala = idsala;
         IdCategoriaPelicula = idCategoriaPelicula;
 
         // if (string.IsNullOrEmpty(nombre))

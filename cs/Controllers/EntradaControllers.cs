@@ -52,5 +52,9 @@ namespace CineApi.Controllers
             Entradas.Remove(entrada);
             return NoContent();
         }
+        public static void InicializarDatos()
+        {
+            
+        }
     }
 }
