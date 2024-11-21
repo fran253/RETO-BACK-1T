@@ -27,15 +27,12 @@ namespace CineApi.Controllers
                     Salas.Add(new Sala(1, 100,"A-1"));
                     Salas.Add(new Sala(2, 80,"A-2"));
                     Salas.Add(new Sala(3, 80,"A-3"));
-                    Salas.Add(new Sala(4, 100,"A-4"));
                     Salas.Add(new Sala(5, 100, "B-1"));
                     Salas.Add(new Sala(6, 80, "B-2"));
                     Salas.Add(new Sala(7, 80, "B-3"));
-                    Salas.Add(new Sala(8, 100, "B-4"));
                     Salas.Add(new Sala(9, 100, "C-1"));
                     Salas.Add(new Sala(10, 80, "C-2"));
                     Salas.Add(new Sala(11, 80, "C-3"));
-                    Salas.Add(new Sala(12, 100, "C-4"));
 
 
 

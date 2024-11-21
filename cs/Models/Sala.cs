@@ -4,26 +4,34 @@ public class Sala {
     public int IdSala {get;set;}
     public string NombreSala {get; set;}
     public int Capacidad{get;set;}
+    public List<Asiento> AsientosDisponibles { get; set; }
+
 
     
 
 
 
 
-    public Sala(int idsala, int capacidad, string nombresala){
-        IdSala = idsala;
-        Capacidad = capacidad;
-        NombreSala = nombresala;
+   public Sala(int idsala, int capacidad, string nombresala)
+        {
+            IdSala = idsala;
+            Capacidad = capacidad;
+            NombreSala = nombresala;
 
-        // if (string.IsNullOrEmpty(nombre))
-        // {
-        //     throw new ArgumentException("Error: El nombre no puede estar vacío.");
-        // }
-        // if (precio < 0)
-        // {
-        //     throw new ArgumentException("Error: El precio no puede ser negativo.");
-        // }
-    }
+            // Inicializar la lista de asientos disponibles
+            AsientosDisponibles = new List<Asiento>();
+            for (int i = 1; i <= capacidad; i++)
+            {
+                // Crear cada asiento con el constructor parametrizado
+                AsientosDisponibles.Add(new Asiento(
+                    idasiento: i,
+                    numasiento: i, 
+                    estado: true 
+                ));
+            }
+        }
+
+
 
     //public abstract void MostrarDetalles();
 
