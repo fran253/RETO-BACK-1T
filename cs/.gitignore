@@ -483,4 +483,4 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-/CineApi/.vscode
+/Cine-API/.vscode
