@@ -153,3 +153,34 @@ E:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.pdb
 E:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.genruntimeconfig.cache
 E:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\ref\Cine-API.dll
 d:\GRADO SUPERIOR (año2)\RETO-BACK-1\cs\obj\Debug\net8.0\Cine-API.sourcelink.json
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Cine-API.exe
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Cine-API.deps.json
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Cine-API.runtimeconfig.json
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Cine-API.dll
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Cine-API.pdb
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.csproj.AssemblyReference.cache
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.AssemblyInfoInputs.cache
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.AssemblyInfo.cs
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.csproj.CoreCompileInputs.cache
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.sourcelink.json
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\staticwebassets\msbuild.Cine-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\staticwebassets\msbuild.build.Cine-API.props
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cine-API.props
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cine-API.props
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\scopedcss\bundle\Cine-API.styles.css
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.csproj.Up2Date
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.dll
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\refint\Cine-API.dll
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.pdb
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\Cine-API.genruntimeconfig.cache
+C:\Users\S2-PC00\Desktop\asdasdasdasad\cs\obj\Debug\net8.0\ref\Cine-API.dll

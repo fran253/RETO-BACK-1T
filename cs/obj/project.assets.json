@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GRADO SUPERIOR (año2)\\RETO-BACK-1\\cs\\Cine-API.csproj",
+      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\asdasdasdasad\\cs\\Cine-API.csproj",
       "projectName": "Cine-API",
-      "projectPath": "E:\\GRADO SUPERIOR (año2)\\RETO-BACK-1\\cs\\Cine-API.csproj",
+      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\asdasdasdasad\\cs\\Cine-API.csproj",
       "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-      "outputPath": "E:\\GRADO SUPERIOR (año2)\\RETO-BACK-1\\cs\\obj\\",
+      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\asdasdasdasad\\cs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

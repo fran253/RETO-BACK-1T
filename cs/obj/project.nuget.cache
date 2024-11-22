@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXySTKEikb8=",
+  "dgSpecHash": "UIiA/gLJ5YI=",
   "success": true,
-  "projectFilePath": "E:\\GRADO SUPERIOR (año2)\\RETO-BACK-1\\cs\\Cine-API.csproj",
+  "projectFilePath": "C:\\Users\\S2-PC00\\Desktop\\asdasdasdasad\\cs\\Cine-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S2-PC00\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\S2-PC00\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
