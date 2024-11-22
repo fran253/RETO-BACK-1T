@@ -28,6 +28,15 @@ namespace CineApi.Controllers
             return Ok(sesion);
         }
 
+       [HttpGet("PeliculaSesion/{idPelicula}")]
+        public ActionResult<List<Sesion>> GetSesionesByIdPelicula(int idPelicula)
+        {
+            var peliculasFiltradas = sesiones.Where(sesion => sesion.Pelicula.IdPelicula == idPelicula).ToList();
+
+            return Ok(peliculasFiltradas);
+        }
+
+
         //Filtrado por el id de la pelicula
         //este fitlrado pilla el id de la sesion la pelicula con todos sus atributos y todos los horarios que tendrá
         [HttpGet("Pelicula/{peliculaId}")]
